@@ -385,6 +385,9 @@ flex: 1 1 40rem;
     .contact .row .image{
         display: none;
     }
+    .products .box-container .box .image .icons{
+        bottom: 0; left: 0; right: 0;
+    }
 }
 @media (max-width:747px){
     .heading{
